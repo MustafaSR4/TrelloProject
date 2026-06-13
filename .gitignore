@@ -1,1 +1,5 @@
 node_modules
+cypress/fixtures/trelloUser.json
+cypress/support/Constants.cy.js
+cypress/videos
+cypress/screenshots
